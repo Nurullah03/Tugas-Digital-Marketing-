@@ -1,0 +1,6 @@
+{
+  "name": "Cafe Tepi",
+  "description": "Cafe Tepi - Ruang jeda dengan racikan kopi berkualitas, suasana hangat, dan ruang estetik untuk nugas dan bersantai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
